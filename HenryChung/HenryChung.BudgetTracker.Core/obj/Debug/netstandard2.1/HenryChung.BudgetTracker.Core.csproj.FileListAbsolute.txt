@@ -6,3 +6,4 @@ C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Core\obj\De
 C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Core\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.csproj.CoreCompileInputs.cache
 C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Core\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.dll
 C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Core\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.pdb
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Core\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.csprojAssemblyReference.cache
