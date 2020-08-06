@@ -12,5 +12,6 @@ namespace HenryChung.BudgetTracker.Core.ServiceInterfaces
         Task<Users> UpdateUser(Users user);
         Task DeleteUser(Users user);
         Task<IEnumerable<Users>> ListAllUsers();
+        Task<Users> GetUserDetails(int id);
     }
 }

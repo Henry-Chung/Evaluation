@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\HenryChung.BudgetTracker.Core\HenryChung.BudgetTracker.Core.csproj" />
     <ProjectReference Include="..\HenryChung.BudgetTracker.Infrastructure\HenryChung.BudgetTracker.Infrastructure.csproj" />
   </ItemGroup>

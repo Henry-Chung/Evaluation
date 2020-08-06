@@ -48,6 +48,12 @@ namespace HenryChung.BudgetTracker.API.Controllers
             return Ok();
         }
 
+        [HttpPost("{id:int}")]
+        public async Task<ActionResult> GetUser(int id)
+        {
+            await _usersService.GetUserDetails(id);
+            return Ok();
+        }
 
     }
 }

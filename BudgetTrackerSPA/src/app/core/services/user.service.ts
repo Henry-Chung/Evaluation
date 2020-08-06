@@ -13,4 +13,8 @@ export class UserService {
     // http://localhost:58601/api/account/login
     return this.apiService.getAll('users');
   }
+
+  getUserDetails(id: number): Observable<User> {
+    return this.apiService.getOne(`${'users/'}${id}`);
+  }
 }

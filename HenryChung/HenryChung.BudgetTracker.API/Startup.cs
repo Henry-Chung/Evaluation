@@ -40,8 +40,8 @@ namespace HenryChung.BudgetTracker.API
             services.AddScoped<IIncomesService, IncomesService>();
             services.AddScoped<IExpendituresRepository, ExpendituresRepository>();
             services.AddScoped<IExpendituresService, ExpendituresService>();
-//            services.AddControllers().AddNewtonsoftJson(options =>
-//options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,12 +52,12 @@ namespace HenryChung.BudgetTracker.API
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseCors(builder =>
-            //{
-            //    builder.WithOrigins(Configuration.GetValue<string>("clientSPAUrl")).AllowAnyHeader()
-            //         .AllowAnyMethod()
-            //         .AllowCredentials();
-            //});
+            app.UseCors(builder =>
+            {
+                builder.WithOrigins(Configuration.GetValue<string>("clientSPAUrl")).AllowAnyHeader()
+                     .AllowAnyMethod()
+                     .AllowCredentials();
+            });
 
             app.UseRouting();
 

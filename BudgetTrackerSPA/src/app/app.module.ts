@@ -16,9 +16,10 @@ import {
 } from '@ng-bootstrap/ng-bootstrap';
 import { HomeComponent } from './home/home.component';
 import { AppComponent } from './app.component';
+import { UserDetailsComponent } from './users/user-details/user-details.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent],
+  declarations: [AppComponent, HomeComponent, UserDetailsComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

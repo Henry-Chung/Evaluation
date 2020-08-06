@@ -39,5 +39,11 @@ namespace HenryChung.BudgetTracker.Infrastructure.Services
             var users = await _usersRepository.ListAllAsync();
             return users;
         }
+
+        public async Task<Users> GetUserDetails(int id)
+        {
+            var user = await _usersRepository.GetByIdAsync(id);
+            return user;
+        }
     }
 }
