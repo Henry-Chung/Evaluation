@@ -1,0 +1,12 @@
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\bin\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.deps.json
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\bin\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.dll
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\bin\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.pdb
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\bin\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.dll
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\bin\Debug\netstandard2.1\HenryChung.BudgetTracker.Core.pdb
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.csprojAssemblyReference.cache
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.AssemblyInfo.cs
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.csproj.CopyComplete
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.dll
+C:\code\Antra\Project\Evaluation\HenryChung\HenryChung.BudgetTracker.Infrastructure\obj\Debug\netstandard2.1\HenryChung.BudgetTracker.Infrastructure.pdb
